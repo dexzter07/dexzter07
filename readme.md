@@ -5,11 +5,11 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dexzter22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dexzter22)
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/dexzter07) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://linkedin.com/in/dheeraj-sharma-5b3a5116a) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.dexztercodes07@gmail.com)
+ [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://linkedin.com/in/dheeraj-sharma-5b3a5116a) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dexztercodes07@gmail.com)
 
 ## I'm a App Developer and Web Developer!!
-I live in India and completed my Bachelor Degree in Computer Science iin 2020🏫. I developed myself on the web for over 2 years. I am currently working as a full App developer and Web Developer at a Service Based company in Gangtok👨‍💻. I really want to learn Artificial Intellinge and Machine Learning 😎.
+I live in India and done my Bachelor Degree in Computer Science in 2020🏫. I developed myself on the web for over 2 years. I am currently working as an App developer and Web Developer at Service Based company in Gangtok👨‍💻.
 
 
 - 🌱 I’m currently learning Flutter.
