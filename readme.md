@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dexzter22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dexzter22)
  [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://linkedin.com/in/dheeraj-sharma-5b3a5116a) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dexztercodes07@gmail.com)
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:dexztercodes07@gmail.com)
 
 ## I'm a App Developer and Web Developer!!
 I live in India and done my Bachelor Degree in Computer Science in 2020🏫. I developed myself on the web for over 2 years. I am currently working as an App developer and Web Developer at Service Based company in Gangtok👨‍💻.
@@ -49,6 +49,9 @@ I live in India and done my Bachelor Degree in Computer Science in 2020🏫. I d
 <br />
 
 ## 📈 Github Stats
+<a href="https://github.com/dexzter07/dexzter07">
+ <img alt="Dheeraj Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dexzter07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
 
 <a href="https://github.com/dexzter07/dexzter07">
  <img alt="Dheeraj Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexzter07&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
