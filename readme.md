@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dexzter22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dexzter22)
- [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://linkedin.com/in/dheeraj-sharma-5b3a5116a) 
+ [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dheeraj-sharma-5b3a5116a) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:dexztercodes07@gmail.com)
 
 ## I'm a App Developer and Web Developer!!
