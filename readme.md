@@ -1,4 +1,4 @@
-### Hi there, I'm Dheeraj - aka [Dexzter] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Dheeraj - Flutter and Django Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 
@@ -8,14 +8,14 @@
  [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dheeraj-sharma-5b3a5116a) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:dexztercodes07@gmail.com)
 
-## I'm a App Developer and Web Developer!!
-I live in India and done my Bachelor Degree in Computer Science in 2020🏫. I developed myself on the web for over 2 years. I am currently working as an App developer and Web Developer at Service Based company in Gangtok👨‍💻.
+## As a Flutter Developer and Django Developer!!
+I get to know about many latest technologies and developed various Mobile Application and Web Application. I am currently working as a Flutter developer in Webingo based on Kolkata, India. I am very passionate on learning new technologies and building great ui and ux for the users.
 
 
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2022 Goals: Become a Flutter Developer.
-- ⚡ Fun fact: I love to play video games in spare time.
+- 🥅 2023 Goals: Learning AI and ML.
+- ⚡ Fun fact: As a developer you never stop learning.
 
 ### Connect with me:
 
