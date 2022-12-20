@@ -9,7 +9,7 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:dexztercodes07@gmail.com)
 
 ## As a Flutter Developer and Django Developer!!
-I get to know about many latest technologies and developed various Mobile Application and Web Application. I am currently working as a Flutter developer in Webingo based on Kolkata, India. I am very passionate on learning new technologies and building great ui and ux for the users.
+I get to know about many latest technologies and developed various Mobile Application and Web Application. I am currently working as a Flutter developer in Webingo Infotech Solution in Kolkata, India. I am very passionate on learning new technologies and building great ui and ux for the users.
 
 
 - 🌱 I’m currently learning Flutter.
