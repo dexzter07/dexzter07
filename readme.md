@@ -9,19 +9,13 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:dexztercodes07@gmail.com)
 
 ## As a Flutter Developer and Django Developer!!
-I get to know about many latest technologies and developed various Mobile Application and Web Application. I am currently working as a Flutter developer in Webingo Infotech Solution in Kolkata, India. I am very passionate on learning new technologies and building great ui and ux for the users.
+I learned about many latest technologies and developed various Mobile Application and Web Applications. I am currently working as a Flutter developer in Webingo Infotech Solution in Kolkata, India. I am passionate about learning new technologies and building great ui and UX for users.
 
 
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2023 Goals: Learning AI and ML.
-- ⚡ Fun fact: As a developer you never stop learning.
-
-### Connect with me:
-
-[<img align="left" alt="dexzter07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dexzter07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dexzter07 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🥅 2024 Goals: Learning AI and ML.
+- ⚡ Fun fact: As a developer, you never stop learning.
 
 <br />
 
