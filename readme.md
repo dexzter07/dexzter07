@@ -59,6 +59,6 @@ I get to know about many latest technologies and developed various Mobile Applic
  </a>
 
 
-[twitter]: https://twitter.com/dexzter22
+[x]: https://x.com/dexzter22
 [instagram]: https://instagram.com/dexzter.codes
 [linkedin]: https://linkedin.com/in/dheeraj-sharma-5b3a5116a
