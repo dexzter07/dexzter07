@@ -36,6 +36,22 @@ I am a **Flutter Developer** and **Django Developer**, with hands-on experience 
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SpectraX07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
+</p>
+
+---
+
+### ☕ Buy Me a Coffee
+
+If you like what I do and want to support my work, consider buying me a coffee!
+
+<a href="https://buymeacoffee.com/dexztercodes" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+</a>
+
 ---
 
 ## 📊 GitHub Stats
