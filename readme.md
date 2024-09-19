@@ -39,7 +39,7 @@ I am a **Flutter Developer** and **Django Developer**, with hands-on experience 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SpectraX07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
+  <img src="https://github-profile-trophy.vercel.app/?username=dexzter07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
 </p>
 
 ---
