@@ -36,6 +36,8 @@ I am a **Flutter Developer** and **Django Developer**, with hands-on experience 
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+[![An image of @dexzter07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dexzter07)](https://holopin.io/@dexzter07)
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
