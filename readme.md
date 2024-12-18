@@ -34,6 +34,7 @@ I am a **Flutter Developer** and **Django Developer**, with hands-on experience 
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%23121011.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### 🏆 GitHub Trophies
