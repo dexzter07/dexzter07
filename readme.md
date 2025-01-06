@@ -1,4 +1,4 @@
-### Hi there, I'm Dheeraj - Flutter and Django Developer! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Dheeraj - a Flutter and Django Developer! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="200"/>
 
@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I am a **Flutter Developer** and **Django Developer**, with hands-on experience in building **Mobile** and **Web Applications**. Currently, I am working at **Webingo Infotech Solution** in **Kolkata, India**.
+I am a **Flutter Developer** and **Django Developer**, with hands-on experience building **Mobile** and **Web Applications**. Currently, I am working at **Webingo Infotech Solution** in **Kolkata, India**.
 
-- 🌱 **I’m currently learning:** Flutter
+- 🌱 **I’m currently Working:** Flutter
 - 👯 **I’m looking to collaborate on:** Open Source Projects
-- 🥅 **2024 Goals:** Exploring **AI** and **ML**
+- 🥅 **2025 Goals:** Learning **AWS Architecture** and **Tensorflow for Deep learning**
 - ⚡ **Fun Fact:** As a developer, you never stop learning.
 
 ---
