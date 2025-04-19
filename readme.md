@@ -37,14 +37,6 @@ I am a **Flutter Developer** and **Django Developer**, with hands-on experience 
   <img src="https://img.shields.io/badge/docker-%23121011.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dexzter07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
-</p>
-
----
-
 ### ☕ Buy Me a Coffee
 
 If you like what I do and want to support my work, consider buying me a coffee!
