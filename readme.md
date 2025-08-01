@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dexzter22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dexzter22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dheeraj-sharma-5b3a5116a)
-[![Contact](https://img.shields.io/badge/Email-dexztercodes07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dexztercodes07@gmail.com)
+[![Contact](https://img.shields.io/badge/Email-dev@dexztercodes.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@dexztercodes.in)
 
 ---
 
