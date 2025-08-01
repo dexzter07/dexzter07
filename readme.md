@@ -1,4 +1,4 @@
-### Hi there, I'm Dheeraj - a Flutter and Django Developer! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Dheeraj - Senior Software Engineer! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="200"/>
 
@@ -10,30 +10,21 @@
 
 ## 👨‍💻 About Me
 
-I am a **Flutter Developer** and **Django Developer**, with hands-on experience building **Mobile** and **Web Applications**. Currently, I am working at **Webingo Infotech Solution** in **Kolkata, India**.
-
-- 🌱 **I’m currently Working:** Flutter
-- 👯 **I’m looking to collaborate on:** Open Source Projects
-- 🥅 **2025 Goals:** Learning **AWS Architecture** and **Tensorflow for Deep learning**
-- ⚡ **Fun Fact:** As a developer, you never stop learning.
-
+I am a **Flutter Developer** and **Django Developer**, with hands-on experience building **Mobile** and **Web Applications**. Currently, I am working at **SmartQ Bottle Lab Technologies** in **Bengaluru, India**.
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-%2302569B.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%23121011.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
